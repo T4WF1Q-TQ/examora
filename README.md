@@ -34,7 +34,7 @@
 - [Data Architecture](#-data-architecture)
 - [Pricing Model](#-pricing-model)
 - [Testing](#-testing)
-- [Known Limitations](#-Known-Limitations)
+- [Known Limitations](#-known-limitations)
 - [Roadmap](#-roadmap)
 - [Team — E-SATAS](#-team--e-satas)
 - [Version Control](#-version-control)
