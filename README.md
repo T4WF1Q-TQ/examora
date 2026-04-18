@@ -21,7 +21,7 @@
 
 ---
 
-# [LIVE_PROTOTYPE]{source_file/index.html}
+#  [LIVE_PROTOTYPE](source_file/index.html)
 
 ## Table of Contents
 
